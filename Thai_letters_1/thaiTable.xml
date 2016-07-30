@@ -2,16 +2,16 @@
 <thaiTable>
   <Consonant>
     <Symbol>ก</Symbol>
-    <S_UK>k</S_UK>
-    <S_UK_end>k</S_UK_end>
+    <beginningSoundUK>k</beginningSoundUK>
+    <endSoundUK>k</endSoundUK>
     <S_NL>k</S_NL>
     <S_NL_end>Kan</S_NL_end>
     <Class>m</Class>
   </Consonant>
   <Consonant>
     <Symbol>ข</Symbol>
-    <S_UK>kh</S_UK>
-    <S_UK_end>k</S_UK_end>
+    <beginningSoundUK>kh</beginningSoundUK>
+    <endSoundUK>k</endSoundUK>
     <S_NL>kh</S_NL>
     <S_NL_end></S_NL_end>
     <NL_Word>CHemie</NL_Word>
@@ -20,8 +20,8 @@
   <Consonant>
     <Symbol>ค</Symbol>
     <name>Koh</name>
-    <S_UK>kh</S_UK>
-    <S_UK_end>k</S_UK_end>
+    <beginningSoundUK>kh</beginningSoundUK>
+    <endSoundUK>k</endSoundUK>
     <S_NL>kh</S_NL>
     <S_NL_end></S_NL_end>
     <NL_Word>CHemie</NL_Word>
@@ -29,8 +29,8 @@
   </Consonant>
   <Consonant>
     <Symbol>ฃ</Symbol>
-    <S_UK>kh</S_UK>
-    <S_UK_end>k</S_UK_end>
+    <beginningSoundUK>kh</beginningSoundUK>
+    <endSoundUK>k</endSoundUK>
     <S_NL>kh</S_NL>
     <S_NL_end></S_NL_end>
     <NL_Word>Kip</NL_Word>
@@ -38,8 +38,8 @@
   </Consonant>
   <Consonant>
     <Symbol>ง</Symbol>
-    <S_UK>ng</S_UK>
-    <S_UK_end>ng</S_UK_end>
+    <beginningSoundUK>ng</beginningSoundUK>
+    <endSoundUK>ng</endSoundUK>
     <S_NL>ng</S_NL>
     <S_NL_end></S_NL_end>
     <NL_Word>baNG</NL_Word>
@@ -47,8 +47,8 @@
   </Consonant>
   <Consonant>
     <Symbol>จ</Symbol>
-    <S_UK>c</S_UK>
-    <S_UK_end>t</S_UK_end>
+    <beginningSoundUK>c</beginningSoundUK>
+    <endSoundUK>t</endSoundUK>
     <S_NL>tj</S_NL>
     <S_NL_end></S_NL_end>
     <NL_Word>beeTJe</NL_Word>
@@ -56,8 +56,8 @@
   </Consonant>
   <Consonant>
     <Symbol>ฉ</Symbol>
-    <S_UK>ch</S_UK>
-    <S_UK_end>t</S_UK_end>
+    <beginningSoundUK>ch</beginningSoundUK>
+    <endSoundUK>t</endSoundUK>
     <S_NL>ch</S_NL>
     <S_NL_end></S_NL_end>
     <NL_Word>SJaal</NL_Word>
