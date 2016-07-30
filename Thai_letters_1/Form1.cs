@@ -28,7 +28,7 @@ namespace Thai_letters_1
             Randomizer();
         }
 
-        private void FillArrayWithXML() //not finished yet test2
+        private void FillArrayWithXML() //not finished yet test123
         {
             //var path = @"C:\Users\dabi\Dropbox\C-sharp\Projects\Thai_letters_1\Thai_letters_1\thaiTable.xml";
             //var thaiTableXML=XDocument.Load(path).Root.Elements().Select(y => y.Elements().ToDictionary(x => x.Name, x => x.Value)).ToArray();
