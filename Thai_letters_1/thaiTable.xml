@@ -4,63 +4,63 @@
     <Symbol>ก</Symbol>
     <beginningSoundUK>k</beginningSoundUK>
     <endSoundUK>k</endSoundUK>
-    <S_NL>k</S_NL>
-    <S_NL_end>Kan</S_NL_end>
-    <Class>m</Class>
+    <beginningSoundNL>k</beginningSoundNL>
+    <endSoundNL>Kan</endSoundNL>
+    <class>m</class>
   </Consonant>
   <Consonant>
     <Symbol>ข</Symbol>
     <beginningSoundUK>kh</beginningSoundUK>
     <endSoundUK>k</endSoundUK>
-    <S_NL>kh</S_NL>
-    <S_NL_end></S_NL_end>
-    <NL_Word>CHemie</NL_Word>
-    <Class>h</Class>
+    <beginningSoundNL>kh</beginningSoundNL>
+    <endSoundNL></endSoundNL>
+    <wordNL>CHemie</wordNL>
+    <class>h</class>
   </Consonant>
   <Consonant>
     <Symbol>ค</Symbol>
     <name>Koh</name>
     <beginningSoundUK>kh</beginningSoundUK>
     <endSoundUK>k</endSoundUK>
-    <S_NL>kh</S_NL>
-    <S_NL_end></S_NL_end>
-    <NL_Word>CHemie</NL_Word>
-    <Class>l</Class>
+    <beginningSoundNL>kh</beginningSoundNL>
+    <endSoundNL></endSoundNL>
+    <wordNL>CHemie</wordNL>
+    <class>l</class>
   </Consonant>
   <Consonant>
     <Symbol>ฃ</Symbol>
     <beginningSoundUK>kh</beginningSoundUK>
     <endSoundUK>k</endSoundUK>
-    <S_NL>kh</S_NL>
-    <S_NL_end></S_NL_end>
-    <NL_Word>Kip</NL_Word>
-    <Class>l</Class>
+    <beginningSoundNL>kh</beginningSoundNL>
+    <endSoundNL></endSoundNL>
+    <wordNL>Kip</wordNL>
+    <class>l</class>
   </Consonant>
   <Consonant>
     <Symbol>ง</Symbol>
     <beginningSoundUK>ng</beginningSoundUK>
     <endSoundUK>ng</endSoundUK>
-    <S_NL>ng</S_NL>
-    <S_NL_end></S_NL_end>
-    <NL_Word>baNG</NL_Word>
-    <Class>l</Class>
+    <beginningSoundNL>ng</beginningSoundNL>
+    <endSoundNL></endSoundNL>
+    <wordNL>baNG</wordNL>
+    <class>l</class>
   </Consonant>
   <Consonant>
     <Symbol>จ</Symbol>
     <beginningSoundUK>c</beginningSoundUK>
     <endSoundUK>t</endSoundUK>
-    <S_NL>tj</S_NL>
-    <S_NL_end></S_NL_end>
-    <NL_Word>beeTJe</NL_Word>
-    <Class>m</Class>
+    <beginningSoundNL>tj</beginningSoundNL>
+    <endSoundNL></endSoundNL>
+    <wordNL>beeTJe</wordNL>
+    <class>m</class>
   </Consonant>
   <Consonant>
     <Symbol>ฉ</Symbol>
     <beginningSoundUK>ch</beginningSoundUK>
     <endSoundUK>t</endSoundUK>
-    <S_NL>ch</S_NL>
-    <S_NL_end></S_NL_end>
-    <NL_Word>SJaal</NL_Word>
-    <Class>h</Class>
+    <beginningSoundNL>ch</beginningSoundNL>
+    <endSoundNL></endSoundNL>
+    <wordNL>SJaal</wordNL>
+    <class>h</class>
   </Consonant>
 </thaiTable>
