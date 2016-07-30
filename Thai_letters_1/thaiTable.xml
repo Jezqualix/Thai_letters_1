@@ -4,18 +4,21 @@
     <Symbol>ก</Symbol>
     <beginningSoundUK>k</beginningSoundUK>
     <endSoundUK>k</endSoundUK>
+    <wordUK>chiCKen</wordUK>
     <beginningSoundNL>k</beginningSoundNL>
     <wordNL>Kan</wordNL>
-    <class>m</class>
+    <soundThai>Koh</soundThai>
+    <class>middle</class>
   </Consonant>
   <Consonant>
     <Symbol>ข</Symbol>
     <beginningSoundUK>kh</beginningSoundUK>
     <endSoundUK>k</endSoundUK>
+    <wordUK>Cackling</wordUK>
     <beginningSoundNL>kh</beginningSoundNL>
     <endSoundNL></endSoundNL>
-    <wordNL>CHemie</wordNL>
-    <class>h</class>
+    <wordNL></wordNL>
+    <class>high</class>
   </Consonant>
   <Consonant>
     <Symbol>ค</Symbol>
