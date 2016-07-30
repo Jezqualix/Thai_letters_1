@@ -5,7 +5,7 @@
     <S_UK>k</S_UK>
     <S_UK_end>k</S_UK_end>
     <S_NL>k</S_NL>
-    <S_NL_end>kan</S_NL_end>
+    <S_NL_end>Kan</S_NL_end>
     <Class>m</Class>
   </Consonant>
   <Consonant>
@@ -14,7 +14,7 @@
     <S_UK_end>k</S_UK_end>
     <S_NL>kh</S_NL>
     <S_NL_end></S_NL_end>
-    <NL_Word>chemie</NL_Word>
+    <NL_Word>CHemie</NL_Word>
     <Class>h</Class>
   </Consonant>
   <Consonant>
@@ -24,7 +24,7 @@
     <S_UK_end>k</S_UK_end>
     <S_NL>kh</S_NL>
     <S_NL_end></S_NL_end>
-    <NL_Word>chemie</NL_Word>
+    <NL_Word>CHemie</NL_Word>
     <Class>l</Class>
   </Consonant>
   <Consonant>
@@ -33,7 +33,7 @@
     <S_UK_end>k</S_UK_end>
     <S_NL>kh</S_NL>
     <S_NL_end></S_NL_end>
-    <NL_Word>kip</NL_Word>
+    <NL_Word>Kip</NL_Word>
     <Class>l</Class>
   </Consonant>
   <Consonant>
@@ -42,7 +42,7 @@
     <S_UK_end>ng</S_UK_end>
     <S_NL>ng</S_NL>
     <S_NL_end></S_NL_end>
-    <NL_Word>bang</NL_Word>
+    <NL_Word>baNG</NL_Word>
     <Class>l</Class>
   </Consonant>
   <Consonant>
@@ -51,7 +51,7 @@
     <S_UK_end>t</S_UK_end>
     <S_NL>tj</S_NL>
     <S_NL_end></S_NL_end>
-    <NL_Word>beetje</NL_Word>
+    <NL_Word>beeTJe</NL_Word>
     <Class>m</Class>
   </Consonant>
   <Consonant>
@@ -60,7 +60,7 @@
     <S_UK_end>t</S_UK_end>
     <S_NL>ch</S_NL>
     <S_NL_end></S_NL_end>
-    <NL_Word>sjaal</NL_Word>
+    <NL_Word>SJaal</NL_Word>
     <Class>h</Class>
   </Consonant>
 </thaiTable>

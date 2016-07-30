@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -39,9 +40,9 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(39, 181);
+            this.button1.Location = new System.Drawing.Point(42, 184);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(50, 50);
+            this.button1.Size = new System.Drawing.Size(70, 70);
             this.button1.TabIndex = 0;
             this.button1.TabStop = false;
             this.button1.Text = "1";
@@ -51,9 +52,9 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(115, 181);
+            this.button2.Location = new System.Drawing.Point(118, 184);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(50, 50);
+            this.button2.Size = new System.Drawing.Size(70, 70);
             this.button2.TabIndex = 1;
             this.button2.TabStop = false;
             this.button2.Text = "2";
@@ -63,9 +64,9 @@
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(186, 181);
+            this.button3.Location = new System.Drawing.Point(194, 184);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(50, 50);
+            this.button3.Size = new System.Drawing.Size(70, 70);
             this.button3.TabIndex = 2;
             this.button3.TabStop = false;
             this.button3.Text = "3";
@@ -74,16 +75,16 @@
             // 
             // debugText
             // 
-            this.debugText.Location = new System.Drawing.Point(41, 149);
+            this.debugText.Location = new System.Drawing.Point(42, 158);
             this.debugText.Name = "debugText";
-            this.debugText.Size = new System.Drawing.Size(194, 20);
+            this.debugText.Size = new System.Drawing.Size(222, 20);
             this.debugText.TabIndex = 4;
             // 
             // scoreBoard
             // 
             this.scoreBoard.AutoSize = true;
             this.scoreBoard.Font = new System.Drawing.Font("Mistral", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.scoreBoard.Location = new System.Drawing.Point(198, 249);
+            this.scoreBoard.Location = new System.Drawing.Point(256, 260);
             this.scoreBoard.Name = "scoreBoard";
             this.scoreBoard.Size = new System.Drawing.Size(38, 26);
             this.scoreBoard.TabIndex = 0;
@@ -91,25 +92,26 @@
             // 
             // lblThaiSymbol
             // 
-            this.lblThaiSymbol.AutoSize = true;
             this.lblThaiSymbol.Font = new System.Drawing.Font("Microsoft Sans Serif", 90F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblThaiSymbol.Location = new System.Drawing.Point(75, -5);
+            this.lblThaiSymbol.Location = new System.Drawing.Point(6, 9);
             this.lblThaiSymbol.Name = "lblThaiSymbol";
-            this.lblThaiSymbol.Size = new System.Drawing.Size(124, 135);
+            this.lblThaiSymbol.Size = new System.Drawing.Size(288, 135);
             this.lblThaiSymbol.TabIndex = 0;
-            this.lblThaiSymbol.Text = "ด";
+            this.lblThaiSymbol.Text = "ก";
+            this.lblThaiSymbol.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 295);
+            this.ClientSize = new System.Drawing.Size(306, 295);
             this.Controls.Add(this.lblThaiSymbol);
             this.Controls.Add(this.scoreBoard);
             this.Controls.Add(this.debugText);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Draco\'s Thai App";
             this.ResumeLayout(false);
