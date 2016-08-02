@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <thaiTable>
-  <Consonant>
-    <Symbol>ก</Symbol>
+  <Letter>
+    <symbol>ก</symbol>
+    <type>consonant</type>
     <beginningSoundUK>k</beginningSoundUK>
     <endSoundUK>k</endSoundUK>
     <wordUK>chiCKen</wordUK>
@@ -9,19 +10,22 @@
     <wordNL>Kan</wordNL>
     <soundThai>Koh</soundThai>
     <class>middle</class>
-  </Consonant>
-  <Consonant>
-    <Symbol>ข</Symbol>
+  </Letter>
+  <Letter>
+    <symbol>ข</symbol>
+    <type>consonant</type>
     <beginningSoundUK>kh</beginningSoundUK>
     <endSoundUK>k</endSoundUK>
     <wordUK>Cackling</wordUK>
     <beginningSoundNL>kh</beginningSoundNL>
     <endSoundNL></endSoundNL>
     <wordNL></wordNL>
+    <soundThai>KHoh</soundThai>
     <class>high</class>
-  </Consonant>
-  <Consonant>
-    <Symbol>ค</Symbol>
+  </Letter>
+  <Letter>
+    <symbol>ค</symbol>
+    <type>consonant</type>
     <name>Koh</name>
     <beginningSoundUK>kh</beginningSoundUK>
     <endSoundUK>k</endSoundUK>
@@ -29,41 +33,45 @@
     <endSoundNL></endSoundNL>
     <wordNL>CHemie</wordNL>
     <class>l</class>
-  </Consonant>
-  <Consonant>
-    <Symbol>ฃ</Symbol>
+  </Letter>
+  <Letter>
+    <symbol>ฃ</symbol>
+    <type>consonant</type>
     <beginningSoundUK>kh</beginningSoundUK>
     <endSoundUK>k</endSoundUK>
     <beginningSoundNL>kh</beginningSoundNL>
     <endSoundNL></endSoundNL>
     <wordNL>Kip</wordNL>
     <class>l</class>
-  </Consonant>
-  <Consonant>
-    <Symbol>ง</Symbol>
+  </Letter>
+  <Letter>
+    <symbol>ง</symbol>
+    <type>consonant</type>
     <beginningSoundUK>ng</beginningSoundUK>
     <endSoundUK>ng</endSoundUK>
     <beginningSoundNL>ng</beginningSoundNL>
     <endSoundNL></endSoundNL>
     <wordNL>baNG</wordNL>
     <class>l</class>
-  </Consonant>
-  <Consonant>
-    <Symbol>จ</Symbol>
+  </Letter>
+  <Letter>
+    <symbol>จ</symbol>
+    <type>consonant</type>
     <beginningSoundUK>c</beginningSoundUK>
     <endSoundUK>t</endSoundUK>
     <beginningSoundNL>tj</beginningSoundNL>
     <endSoundNL></endSoundNL>
     <wordNL>beeTJe</wordNL>
     <class>m</class>
-  </Consonant>
-  <Consonant>
-    <Symbol>ฉ</Symbol>
+  </Letter>
+  <Letter>
+    <symbol>ฉ</symbol>
+    <type>consonant</type>
     <beginningSoundUK>ch</beginningSoundUK>
     <endSoundUK>t</endSoundUK>
     <beginningSoundNL>ch</beginningSoundNL>
     <endSoundNL></endSoundNL>
     <wordNL>SJaal</wordNL>
     <class>h</class>
-  </Consonant>
+  </Letter>
 </thaiTable>
